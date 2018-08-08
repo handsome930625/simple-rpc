@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * description:
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/7 10:16
  */

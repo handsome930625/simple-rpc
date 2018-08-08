@@ -6,7 +6,7 @@ import com.charse.bean.RpcResponse;
  * description: 返回值持有类
  * 作用是等待返回值返回
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/7 11:06
  */

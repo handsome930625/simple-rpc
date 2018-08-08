@@ -14,7 +14,7 @@ import java.io.IOException;
  * description: 使用 jboss marshall 编码
  * 对应的工厂类
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/6 17:18
  */
@@ -27,7 +27,7 @@ class MarshallingCodeCFactory {
     /**
      * description: marshalling 解码
      *
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/7 9:25
      */
     static NettyMarshallingDecoder buildMarshallingDecoder() throws IOException {
@@ -40,7 +40,7 @@ class MarshallingCodeCFactory {
     /**
      * description: marshalling 编码
      *
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/7 9:25
      */
     static NettyMarshallingEncoder buildMarshallingEncoder() {

@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * description: 基于zookeeper的注册中心
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/6 15:09
  */
@@ -51,7 +51,7 @@ public class ZookeeperRegistry implements RegistryCenter {
      * description: 获取zk客户端
      *
      * @return zookeeper 客户端
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/6 16:40
      */
     private ZkClient getZkClient() {

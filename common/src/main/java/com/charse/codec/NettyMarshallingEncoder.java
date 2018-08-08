@@ -8,7 +8,7 @@ import io.netty.handler.codec.marshalling.MarshallingEncoder;
 /**
  * description: 编码器
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/6 17:18
  */

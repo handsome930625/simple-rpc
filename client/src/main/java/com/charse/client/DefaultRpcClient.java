@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * description: 默认 rpc 客户端
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/7 10:00
  */

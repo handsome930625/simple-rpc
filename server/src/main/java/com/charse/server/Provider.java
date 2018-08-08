@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
  * description: 服务提供者注解
  * 具有 @Service注解的能力
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/6 17:18
  */

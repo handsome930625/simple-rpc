@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * description:
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/7 9:58
  */
@@ -66,7 +66,7 @@ public class ServerHandler extends SimpleChannelInboundHandler<RpcRequest> {
      *
      * @param request rpc请求类
      * @return rpcResponse
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/7 11:13
      */
     private Object handle(RpcRequest request) throws Exception {
@@ -94,7 +94,7 @@ public class ServerHandler extends SimpleChannelInboundHandler<RpcRequest> {
      *
      * @param request rpc 请求类
      * @return 是否允许访问
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/7 11:09
      */
     private boolean validate(RpcRequest request) {

@@ -6,7 +6,7 @@ import java.net.UnknownHostException;
 /**
  * description:
  *
- * @author 王亦杰（yijie.wang01@ucarinc.com）
+ * @author 王亦杰
  * @version 1.0
  * @date 2018/8/7 9:14
  */
@@ -17,7 +17,7 @@ public class AddressUtils {
     /**
      * description: 获取本机ip
      *
-     * @author 王亦杰（yijie.wang01@ucarinc.com）
+     * @author 王亦杰
      * @date 2018/8/7 9:17
      */
     public static String getLocalHost() throws UnknownHostException {
